@@ -10,6 +10,6 @@ def my_profile_view(request):
         'obj':obj,
     }
 
-    return render(request,'profiles/myprofile.html')
+    return render(request,'profiles/myprofile.html',context)
 
-main.html     
+ 
