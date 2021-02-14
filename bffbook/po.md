@@ -1,10 +1,12 @@
 1. profiles
-    - profile application
-    - Relation
+    - Profile 
+    - Relationship 
 
 2. posts
-    - post
-    - comment
+    - Post
+    - Comment
     - Like
 
-3. allAuth (authentication)
+3. allauth (authentication)
+
+
